@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknziranziza=self.webpackChunknziranziza||[]).push([[453],{731:function(n,a,e){e.r(a);var u=e(6540);a.default=()=>u.createElement("main",null,"Not found")}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-517dec65182705bc7fb2.js.map
